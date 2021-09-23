@@ -1,0 +1,60 @@
+{
+"name": "Højbjerg #6",
+"description": "**Pierre-Emile Højbjerg | Tottenham | Home Kit** \n\n Hi, my name is Pierre-Emile and I love playing football for Tottenham. I have an Indonesian fan Twitter account.", 
+"image": "https://nfttest.github.io/api/assets/6.jpg", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Pierre-Emile Højbjerg"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Denmark"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Tottenham"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CDM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas Copa Sense.1"
+    }
+  ] 
+}

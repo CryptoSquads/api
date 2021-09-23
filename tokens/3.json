@@ -1,0 +1,60 @@
+{
+"name": "Fabinho #3",
+"description": "**Fabinho | Liverpool | Home Kit** \n\n Hi, my name is Fabinho and I love playing football for Liverpool. I enjoy exploring different countries with my family.", 
+"image": "https://nfttest.github.io/api/assets/3.jpg", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Fabinho"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Brazil"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Liverpool"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CDM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CB"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas Predator Freak. 1"
+    }
+  ] 
+}

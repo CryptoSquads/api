@@ -1,0 +1,60 @@
+{
+"name": "Aubamayang #2",
+"description": "**Pierre-Emerick Aubameyang | Arsenal | Home Kit** \n\n Hi, my name is Auba and I love playing football for Arsenal. I sometimes wear superhero masks.", 
+"image": "https://nfttest.github.io/api/assets/2.jpg", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Pierre-Emerick Aubameyang"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Gabon"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Arsenal"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor XIII"
+    }
+  ] 
+}
