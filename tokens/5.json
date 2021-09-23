@@ -1,6 +1,6 @@
 {
 "name": "Foden #5",
-"description": "**Phil Foden | Manchester City | Home Kit** \n\n Hi, my name is Phil Foden and I love playing football for Manchester City. My dad supports Manchester United.", 
+"description": "**Phil Foden | Manchester City | Away Kit** \n\n Hi, my name is Phil Foden and I love playing football for Manchester City. My dad supports Manchester United.", 
 "image": "https://cryptosquads.github.io/api/assets/5.png", 
 "attributes": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Kit", 
-      "value": "Home"
+      "value": "Away"
     },
     {
       "trait_type": "Preferred Foot", 
