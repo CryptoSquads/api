@@ -1,6 +1,6 @@
 {
 "name": "Højbjerg #6",
-"description": "**Højbjerg | Tottenham | Home 2021** \n\n Hi, my name is Pierre-Emile and I love playing football for Tottenham. I have an Indonesian fan account on Twitter.", 
+"description": "**Højbjerg | Tottenham Hotspur | Home 2021** \n\n Hi, my name is Pierre-Emile and I love playing football for Tottenham. I have an Indonesian fan account on Twitter.", 
 "image": "https://cryptosquads.github.io/api/assets/6.png", 
 "attributes": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Team", 
-      "value": "Tottenham"
+      "value": "Tottenham Hotspur"
     },
     {
       "trait_type": "Competition", 
