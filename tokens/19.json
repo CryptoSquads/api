@@ -1,0 +1,64 @@
+{
+"name": "Sarr #19",
+"description": "**Sarr | Watford | Home 2021** \n\n Hi, my name is Ismaïla and I love playing football for Watford. ", 
+"image": "https://nfttest.github.io/api/assets/19.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 78,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Ismaïla Sarr"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Senegal"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Watford"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Superfly Elite – Crimson"
+    }
+  ] 
+}

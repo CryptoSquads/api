@@ -1,0 +1,60 @@
+{
+"name": "Shelvey #16",
+"description": "**Shelvey | Newcastle United | Home 2021** \n\n Hi, my name is Jonjo and I love playing football for Newcastle. ", 
+"image": "https://nfttest.github.io/api/assets/16.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 75,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Jonjo Shelvey"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Newcastle United"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CDM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Phantom GT Elite - PINK/WHITE"
+    }
+  ] 
+}

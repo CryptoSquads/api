@@ -1,0 +1,60 @@
+{
+"name": "Traoré #12",
+"description": "**Traoré | Wolverhampton Wanderers | Home 2021** \n\n Hi, my name is Adama and I love playing football for Wolves. I put baby oil on my arms so defenders can't hold me back.", 
+"image": "https://nfttest.github.io/api/assets/12.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 78,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Adama Traoré"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Spain"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Wolverhampton Wanderers"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RWB"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor XIII Elite Traoré"
+    }
+  ] 
+}

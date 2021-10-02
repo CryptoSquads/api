@@ -1,0 +1,56 @@
+{
+"name": "Pukki #18",
+"description": "**Pukki | Norwich City | Home 2021** \n\n Hi, my name is Teemu and I love playing football for Norwich. I love playing video games with my teammates.", 
+"image": "https://nfttest.github.io/api/assets/18.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 76,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Teemu Pukki"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Finland"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Norwich City"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X 19+ Blue"
+    }
+  ] 
+}

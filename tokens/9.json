@@ -1,0 +1,64 @@
+{
+"name": "Trossard #9",
+"description": "**Trossard | Brighton & Hove Albion | Home 2021** \n\n Hi, my name is Leandro and I love playing football for Brighton. Didier Drogba is one of my footballing heroes.", 
+"image": "https://nfttest.github.io/api/assets/9.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 77,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Leandro Trossard"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Belgium"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Brighton & Hove Albion"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X Speedflow.1"
+    }
+  ] 
+}

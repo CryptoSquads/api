@@ -1,0 +1,56 @@
+{
+"name": "Pope #10",
+"description": "**Pope | Burnley | Home 2021** \n\n Hi, my name is Nick and I love playing football for Burnley. I once worked part-time as a milkman.", 
+"image": "https://nfttest.github.io/api/assets/10.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Nick Pope"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Burnley"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "GK"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Phantom Venom Elite – Yellow"
+    }
+  ] 
+}

@@ -1,0 +1,56 @@
+{
+"name": "Vardy #15",
+"description": "**Vardy | Leicester City | Home 2021** \n\n Hi, my name is Jamie and I love playing football for Leicester. ", 
+"image": "https://nfttest.github.io/api/assets/15.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Jamie Vardy"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Leicester City"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X Ghosted Green"
+    }
+  ] 
+}

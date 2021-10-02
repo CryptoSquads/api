@@ -1,0 +1,56 @@
+{
+"name": "Adams #17",
+"description": "**Adams | Southampton | Home 2021** \n\n Hi, my name is Ché and I love playing football for Southampton. ", 
+"image": "https://nfttest.github.io/api/assets/17.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 76,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Ché Adams"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Scotland"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Southampton"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X 19+ Blue"
+    }
+  ] 
+}

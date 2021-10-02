@@ -1,0 +1,60 @@
+{
+"name": "Townsend #13",
+"description": "**Townsend | Everton | Home 2021** \n\n Hi, my name is Andros and I love playing football for Everton. When I was growing up my nickname was 'Down Town'.", 
+"image": "https://nfttest.github.io/api/assets/13.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 77,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Andros Townsend"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Everton"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Left"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor – Chrome/Red"
+    }
+  ] 
+}

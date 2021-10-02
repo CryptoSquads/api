@@ -1,0 +1,64 @@
+{
+"name": "Phillips #14",
+"description": "**Phillips | Leeds United | Home 2021** \n\n Hi, my name is Kalvin and I love playing football for Leeds. Leeds fans nicknamed me 'Stockport Pirlo'.", 
+"image": "https://nfttest.github.io/api/assets/14.png?v=1", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 81,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Kalvin Phillips"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Leeds United"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CDM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CB"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas Predator Mutator+ – Black/Green"
+    }
+  ] 
+}
