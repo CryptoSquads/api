@@ -51,6 +51,10 @@
     {
       "trait_type": "Footwear", 
       "value": "Adidas X 19+ Blue"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.00"
     }
   ] 
 }
