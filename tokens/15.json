@@ -1,8 +1,8 @@
 {
-"name": "Vardy #15",
-"description": "**Vardy | Leicester City | Home 2021** \n\n Hi, my name is Jamie and I love playing football for Leicester. I was rejected by Sheffield Wednesday for being 'too small'.", 
-"image": "https://cryptosquads.github.io/api/assets/15.png?v=1.0", 
-"attributes": [
+  "name": "Vardy #15",
+  "description": "**Vardy | Leicester City | Home 2021** \n\n Hi, my name is Jamie and I love playing football for Leicester. I was rejected by Sheffield Wednesday for being 'too small'.", 
+  "image": "https://cryptosquads.github.io/api/assets/15.png?v=1.0", 
+  "attributes": [
     {
       "trait_type": "Rating", 
       "value": 86,

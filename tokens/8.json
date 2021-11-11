@@ -1,8 +1,8 @@
 {
-"name": "Toney #8",
-"description": "**Toney | Brentford | Home 2021** \n\n Hi, my name is Ivan and I love playing football for Brentford. I have a son called Ivan Junior.", 
-"image": "https://cryptosquads.github.io/api/assets/8.png?v=1.0", 
-"attributes": [
+  "name": "Toney #8",
+  "description": "**Toney | Brentford | Home 2021** \n\n Hi, my name is Ivan and I love playing football for Brentford. I have a son called Ivan Junior.", 
+  "image": "https://cryptosquads.github.io/api/assets/8.png?v=1.0", 
+  "attributes": [
     {
       "trait_type": "Rating", 
       "value": 76,

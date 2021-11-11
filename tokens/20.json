@@ -1,8 +1,8 @@
 {
-"name": "Benrahma #20",
-"description": "**Benrahma | West Ham United | Home 2021** \n\n Hi, my name is Saïd and I love playing football for West Ham. My nickname is 'the Algerian Messi'.", 
-"image": "https://cryptosquads.github.io/api/assets/20.png?v=1.0", 
-"attributes": [
+  "name": "Benrahma #20",
+  "description": "**Benrahma | West Ham United | Home 2021** \n\n Hi, my name is Saïd and I love playing football for West Ham. My nickname is 'the Algerian Messi'.", 
+  "image": "https://cryptosquads.github.io/api/assets/20.png?v=1.0", 
+  "attributes": [
     {
       "trait_type": "Rating", 
       "value": 77,
