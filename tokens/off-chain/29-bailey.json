@@ -1,0 +1,69 @@
+{
+"name": "Bailey",
+"description": "**Bailey | __________ | __________** \n\n __________", 
+"image": "https://cryptosquads.github.io/api/assets/__________.png", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Leon Bailey"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "__________"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "__________"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "__________"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "__________"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "__________"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.02"
+    }
+  ],
+  "gameId": "29"
+}

@@ -1,0 +1,69 @@
+{
+"name": "Grealish",
+"description": "**Grealish | __________ | __________** \n\n __________", 
+"image": "https://cryptosquads.github.io/api/assets/__________.png", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Jack Grealish"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "__________"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "__________"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "__________"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "__________"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CAM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "__________"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.02"
+    }
+  ],
+  "gameId": "27"
+}
