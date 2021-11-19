@@ -1,0 +1,69 @@
+{
+"name": "Nkunku #24",
+"description": "**Nkunku | RB Leipzig | Home 2021** \n\nHi, my name is Christopher and I love playing football for RB Leipzig. I like to ride in my Mercedes G-Wagon!", 
+"image": "https://cryptosquads.github.io/api/assets/24.png", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 81,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Christopher Nkunku"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "France"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "RB Leipzig"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Bundesliga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CAM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CF"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X Speedflow+"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "GER1 1.00"
+    }
+  ],
+  "gameId": "44"
+}

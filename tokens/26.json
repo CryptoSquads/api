@@ -1,0 +1,65 @@
+{
+"name": "Witsel #26",
+"description": "**Witsel | Borussia Dortmund | Home 2021** \n\nHi, my name is Axel and I love playing football for Dortmund. I scored an overhead kick on my Bundesliga debut.", 
+"image": "https://cryptosquads.github.io/api/assets/26.png", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Axel Witsel"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Belgium"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Borussia Dortmund"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Bundesliga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CDM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Puma Ultra 1.3"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "GER1 1.00"
+    }
+  ],
+  "gameId": "45"
+}

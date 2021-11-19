@@ -1,0 +1,61 @@
+{
+"name": "Lewandowski #27",
+"description": "**Lewandowski | FC Bayern Munich | Home 2021** \n\nHi, my name is Robert and I love playing football for Bayern Munich. My wife and I are nicknamed the 'Polish Beckhams'", 
+"image": "https://cryptosquads.github.io/api/assets/27.png", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Robert Lewandowski"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Poland"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "FC Bayern Munich"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Bundesliga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor 14"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "GER1 1.00"
+    }
+  ],
+  "gameId": "47"
+}

@@ -1,0 +1,69 @@
+{
+"name": "Gnabry #25",
+"description": "**Gnabry | FC Bayern Munich | Home 2021** \n\nHi, my name is Serge and I love playing football for Bayern Munich. I was top goal scorer at the 2016 Olympics.", 
+"image": "https://cryptosquads.github.io/api/assets/25.png", 
+"attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Serge Gnabry"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "FC Bayern Munich"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Bundesliga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas Nemeziz 19.1 – White/Green"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "GER1 1.00"
+    }
+  ],
+  "gameId": "46"
+}
