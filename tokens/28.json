@@ -1,0 +1,65 @@
+{
+    "name": "Neymar Jr #28",
+    "description": "**Neymar Jr | PSG | Home 2021** \n\nHi, my name is Neymar and I love playing football for PSG. I am the only Brazilian athlete to be featured on the cover of TIME magazine.", 
+    "image": "https://cryptosquads.github.io/api/assets/28.png", 
+    "attributes": [
+      {
+        "trait_type": "Rating", 
+        "value": 91,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Name", 
+        "value": "Neymar da Silva Santos Júnior"
+      },
+      {
+        "trait_type": "Nation", 
+        "value": "Brazil"
+      },
+      {
+        "trait_type": "Type", 
+        "value": "Club"
+      },
+      {
+        "trait_type": "Role", 
+        "value": "Player"
+      },
+      {
+        "trait_type": "Team", 
+        "value": "PSG"
+      },
+      {
+        "trait_type": "Competition", 
+        "value": "Ligue 1"
+      },
+      {
+        "trait_type": "Year", 
+        "value": "2021-2022"
+      },
+      {
+        "trait_type": "Kit", 
+        "value": "Home"
+      },
+      {
+        "trait_type": "Preferred Foot", 
+        "value": "Right"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "LW"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "CAM"
+      },
+      {
+        "trait_type": "Footwear", 
+        "value": "Puma Future Z 1.2"
+      },
+      {
+        "trait_type": "Release", 
+        "value": "FRA1 1.01"
+      }
+    ],
+    "gameId": "48" 
+  }
