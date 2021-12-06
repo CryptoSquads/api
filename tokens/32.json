@@ -1,0 +1,69 @@
+{
+    "name": "Son #32",
+    "description": "**Son | Tottenham Hotspur | Home 2021** \n\nHi, my name is Heung-min and I love playing football for Tottenham. I'm currently the highest Asian goalscorer in Premier League history.", 
+    "image": "https://cryptosquads.github.io/api/assets/32.png", 
+    "attributes": [
+      {
+        "trait_type": "Rating", 
+        "value": 89,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Name", 
+        "value": "Son Heung-min"
+      },
+      {
+        "trait_type": "Nation", 
+        "value": "South Korea"
+      },
+      {
+        "trait_type": "Type", 
+        "value": "Club"
+      },
+      {
+        "trait_type": "Role", 
+        "value": "Player"
+      },
+      {
+        "trait_type": "Team", 
+        "value": "Tottenham Hotspur"
+      },
+      {
+        "trait_type": "Competition", 
+        "value": "Premier League"
+      },
+      {
+        "trait_type": "Year", 
+        "value": "2021-2022"
+      },
+      {
+        "trait_type": "Kit", 
+        "value": "Home"
+      },
+      {
+        "trait_type": "Preferred Foot", 
+        "value": "Right"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "LM"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "CF"
+      },
+      {
+        "trait_type": "Position", 
+        "value": "LW"
+      },
+      {
+        "trait_type": "Footwear", 
+        "value": "Adidas X Speedflow+"
+      },
+      {
+        "trait_type": "Release", 
+        "value": "ENG1 1.02"
+      }
+    ],
+    "gameId": "28" 
+  }

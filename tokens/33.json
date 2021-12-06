@@ -1,0 +1,65 @@
+{
+    "name": "Saint-Maximin #33",
+    "description": "**Saint-Maximin | Newcastle United | Home 2021** \n\nHi, my name is Allan and I love playing football for Newcastle. My nickname is Saint Max.", 
+    "image": "https://cryptosquads.github.io/api/assets/33.png", 
+    "attributes": [
+      {
+        "trait_type": "Rating", 
+        "value": 79,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Name", 
+        "value": "Allan Saint-Maximin"
+      },
+      {
+        "trait_type": "Nation", 
+        "value": "France"
+      },
+      {
+        "trait_type": "Type", 
+        "value": "Club"
+      },
+      {
+        "trait_type": "Role", 
+        "value": "Player"
+      },
+      {
+        "trait_type": "Team", 
+        "value": "Newcastle United"
+      },
+      {
+        "trait_type": "Competition", 
+        "value": "Premier League"
+      },
+      {
+        "trait_type": "Year", 
+        "value": "2021-2022"
+      },
+      {
+        "trait_type": "Kit", 
+        "value": "Home"
+      },
+      {
+        "trait_type": "Preferred Foot", 
+        "value": "Right"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "LM"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "ST"
+      },
+      {
+        "trait_type": "Footwear", 
+        "value": "Puma Ultra 1.3"
+      },
+      {
+        "trait_type": "Release", 
+        "value": "ENG1 1.02"
+      }
+    ],
+    "gameId": "38" 
+  }
