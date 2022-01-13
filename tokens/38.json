@@ -1,0 +1,69 @@
+{
+  "name": "Fekir #38",
+  "description": "**Fekir | Club | Home 2021** \n\n Hi, my name is Nabil and I love to play football. I am a very private person.", 
+  "image": "https://cryptosquads.github.io/api/assets/38.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Nabil Fekir"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "France"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Real Betis"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "La Liga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Left"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CAM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Phantom GT 2 Elite DF"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "SPA1 1.00"
+    }
+  ],
+  "gameId": "53"
+}

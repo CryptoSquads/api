@@ -1,0 +1,69 @@
+{
+  "name": "Depay #36",
+  "description": "**Depay | Club | Home 2021** \n\n Hi, my name is Memphis and I love to play football. I have a tattoo of my grandad on my chest.", 
+  "image": "https://cryptosquads.github.io/api/assets/36.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Mempis Depay"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Netherlands"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Barcelona"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "La Liga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CF"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CAM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Under Armour Magnetico Pro SL"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "SPA1 1.00"
+    }
+  ],
+  "gameId": "51"
+}
