@@ -1,0 +1,61 @@
+{
+  "name": "Abraham #42",
+  "description": "**Abraham | Club | Home 2021** \n\n Hi, my name is Tammy and I love to play football. I have a younger brother called Timmy who also plays football.", 
+  "image": "https://cryptosquads.github.io/api/assets/42.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 79,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Tammy Abraham"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Roma"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Serie A"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor 14"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ITA1 1.00"
+    }
+  ],
+  "gameId": "57"
+}

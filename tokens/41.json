@@ -1,0 +1,61 @@
+{
+  "name": "Chiellini #41",
+  "description": "**Chiellini | Club | Home 2021** \n\n Hi, my name is Giorgio and I love to play football. Sometimes people call me 'Keyser Giorgio' or 'King Kong'.", 
+  "image": "https://cryptosquads.github.io/api/assets/41.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Giorgio Chiellini"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Italy"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Juventus"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Serie A"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Left"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CB"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Puma Ultra 1.3"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ITA1 1.00"
+    }
+  ],
+  "gameId": "56"
+}

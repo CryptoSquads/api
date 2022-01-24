@@ -1,0 +1,65 @@
+{
+  "name": "Vidal #44",
+  "description": "**Vidal | Club | Home 2021** \n\n Hi, my name is Artuo and I love to play football. My nickname is 'Rey Arturo' ('King Arthur').", 
+  "image": "https://cryptosquads.github.io/api/assets/44.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 81,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Arturo Vidal"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Chile"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Inter Milan"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Serie A"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CDM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Phantom GT 2 Elite DF"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ITA1 1.00"
+    }
+  ],
+  "gameId": "59"
+}
