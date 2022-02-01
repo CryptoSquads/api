@@ -1,0 +1,61 @@
+{
+    "name": "Firmino #47",
+    "description": "**Firmino | Club | Home 2021** \n\n", 
+    "image": "https://cryptosquads.github.io/api/assets/30.png", 
+    "attributes": [
+      {
+        "trait_type": "Rating", 
+        "value": 85,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Name", 
+        "value": "Roberto Firmino"
+      },
+      {
+        "trait_type": "Nation", 
+        "value": "Brazil"
+      },
+      {
+        "trait_type": "Type", 
+        "value": "Club"
+      },
+      {
+        "trait_type": "Role", 
+        "value": "Player"
+      },
+      {
+        "trait_type": "Team", 
+        "value": "Liverpool"
+      },
+      {
+        "trait_type": "Competition", 
+        "value": "Premier League"
+      },
+      {
+        "trait_type": "Year", 
+        "value": "2021-2022"
+      },
+      {
+        "trait_type": "Kit", 
+        "value": "Home"
+      },
+      {
+        "trait_type": "Preferred Foot", 
+        "value": "Right"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "CF"
+      }, 
+      {
+        "trait_type": "Footwear", 
+        "value": "Adidas Nemeziz 20.1"
+      },
+      {
+        "trait_type": "Release", 
+        "value": "ENG1 1.03"
+      }
+    ],
+    "gameId": "61" 
+  }
