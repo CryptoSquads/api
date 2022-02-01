@@ -1,0 +1,69 @@
+{
+    "name": "Eriksen #46",
+    "description": "**Eriksen | Club | Hero | Home 2018** \n\nHi, my name is Christian and I love to play football. My brother and sister are also professional footballers.", 
+    "image": "https://cryptosquads.github.io/api/assets/46.png", 
+    "attributes": [
+      {
+        "trait_type": "Rating", 
+        "value": 88,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Name", 
+        "value": "Christian Eriksen"
+      },
+      {
+        "trait_type": "Nation", 
+        "value": "Denmark"
+      },
+      {
+        "trait_type": "Type", 
+        "value": "Club"
+      },
+      {
+        "trait_type": "Role", 
+        "value": "Player"
+      },
+      {
+        "trait_type": "Team", 
+        "value": "Tottenham Hotspur"
+      },
+      {
+        "trait_type": "Competition", 
+        "value": "Premier League"
+      },
+      {
+        "trait_type": "Year", 
+        "value": "2017-2018"
+      },
+      {
+        "trait_type": "Kit", 
+        "value": "Home"
+      },
+      {
+        "trait_type": "Preferred Foot", 
+        "value": "Right"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "CAM"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "RM"
+      },
+      {
+        "trait_type": "Position", 
+        "value": "CM"
+      },
+      {
+        "trait_type": "Footwear", 
+        "value": "Nike Mercurial Superfly 360"
+      },
+      {
+        "trait_type": "Release", 
+        "value": "HERO 1.00"
+      }
+    ],
+    "gameId": "63" 
+  }
