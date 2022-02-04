@@ -1,0 +1,65 @@
+{
+    "name": "Hakimi #53",
+    "description": "**Hakimi | Country | Home 2021** \n\nHi, my name is Achraf and I love to play football. I was the first Arabic footballer to play for Real Madrid.", 
+    "image": "https://cryptosquads.github.io/api/assets/53.png", 
+    "attributes": [
+      {
+        "trait_type": "Rating", 
+        "value": 85,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Name", 
+        "value": "Achraf Hakimi"
+      },
+      {
+        "trait_type": "Nation", 
+        "value": "Morocco"
+      },
+      {
+        "trait_type": "Type", 
+        "value": "Country"
+      },
+      {
+        "trait_type": "Role", 
+        "value": "Player"
+      },
+      {
+        "trait_type": "Team", 
+        "value": "Morocco"
+      },
+      {
+        "trait_type": "Competition", 
+        "value": "Africa Cup of Nations"
+      },
+      {
+        "trait_type": "Year", 
+        "value": "2021-2022"
+      },
+      {
+        "trait_type": "Kit", 
+        "value": "Home"
+      },
+      {
+        "trait_type": "Preferred Foot", 
+        "value": "Right"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "RB"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "RWB"
+      },
+      {
+        "trait_type": "Footwear", 
+        "value": "Adidas X Speedflow+"
+      },
+      {
+        "trait_type": "Release", 
+        "value": "AFCON 1.00"
+      }
+    ],
+    "gameId": "70" 
+  }

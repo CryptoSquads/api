@@ -1,0 +1,61 @@
+{
+    "name": "Salah #52",
+    "description": "**Salah | Country | Home 2021** \n\nHi, my name is Mo and I love to play football. I also enjoy watching comedy movies at home with my family.", 
+    "image": "https://cryptosquads.github.io/api/assets/52.png", 
+    "attributes": [
+      {
+        "trait_type": "Rating", 
+        "value": 89,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Name", 
+        "value": "Mo Salah"
+      },
+      {
+        "trait_type": "Nation", 
+        "value": "Egypt"
+      },
+      {
+        "trait_type": "Type", 
+        "value": "Country"
+      },
+      {
+        "trait_type": "Role", 
+        "value": "Player"
+      },
+      {
+        "trait_type": "Team", 
+        "value": "Egypt"
+      },
+      {
+        "trait_type": "Competition", 
+        "value": "Africa Cup of Nations"
+      },
+      {
+        "trait_type": "Year", 
+        "value": "2021-2022"
+      },
+      {
+        "trait_type": "Kit", 
+        "value": "Home"
+      },
+      {
+        "trait_type": "Preferred Foot", 
+        "value": "Left"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "RW"
+      }, 
+      {
+        "trait_type": "Footwear", 
+        "value": "Adidas x Speedflow MO Salah.1 FG"
+      },
+      {
+        "trait_type": "Release", 
+        "value": "AFCON 1.00"
+      }
+    ],
+    "gameId": "69" 
+  }
