@@ -1,0 +1,65 @@
+{
+  "name": "Sancho #56",
+  "description": "**Sancho | Club | Home 2021** \n\nHi, my name is Jadon and I love to play football. My nickname is 'The Rocket'", 
+  "image": "https://cryptosquads.github.io/api/assets/56.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Jadon Sancho"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Manchester United"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Superfly VIII Elite"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.04"
+    }
+  ],
+  "gameId": "66"
+}
