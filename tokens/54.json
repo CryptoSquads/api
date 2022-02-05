@@ -1,6 +1,6 @@
 {
     "name": "Ndidi #54",
-    "description": "**Ndidi | Country | Home 2021** \n\nHi, my name is Wilfred and I love to play football. My father was a soldier who didn't want me to play football.", 
+    "description": "**Ndidi | International | Home 2021** \n\nHi, my name is Wilfred and I love to play football. My father was a soldier who didn't want me to play football.", 
     "image": "https://cryptosquads.github.io/api/assets/54.png", 
     "attributes": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "trait_type": "Type", 
-        "value": "Country"
+        "value": "International"
       },
       {
         "trait_type": "Role", 

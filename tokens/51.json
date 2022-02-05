@@ -1,6 +1,6 @@
 {
     "name": "Mané #51",
-    "description": "**Mané | Country | Away 2021** \n\nHi, my name is Sadio and I love to play football. I once scored a Premier League hat-trick in 2 minutes and 56 seconds.", 
+    "description": "**Mané | International | Away 2021** \n\nHi, my name is Sadio and I love to play football. I once scored a Premier League hat-trick in 2 minutes and 56 seconds.", 
     "image": "https://cryptosquads.github.io/api/assets/51.png", 
     "attributes": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "trait_type": "Type", 
-        "value": "Country"
+        "value": "International"
       },
       {
         "trait_type": "Role", 

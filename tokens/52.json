@@ -1,6 +1,6 @@
 {
     "name": "Salah #52",
-    "description": "**Salah | Country | Home 2021** \n\nHi, my name is Mo and I love to play football. I also enjoy watching comedy movies at home with my family.", 
+    "description": "**Salah | International | Home 2021** \n\nHi, my name is Mo and I love to play football. I also enjoy watching comedy movies at home with my family.", 
     "image": "https://cryptosquads.github.io/api/assets/52.png", 
     "attributes": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "trait_type": "Type", 
-        "value": "Country"
+        "value": "International"
       },
       {
         "trait_type": "Role", 

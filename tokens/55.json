@@ -1,6 +1,6 @@
 {
     "name": "Mahrez #55",
-    "description": "**Mahrez | Country | Home 2021** \n\nHi, my name is Riyad and I love to play football. As a young player, coaches told me I would never make it as a footballer.", 
+    "description": "**Mahrez | International | Home 2021** \n\nHi, my name is Riyad and I love to play football. As a young player, coaches told me I would never make it as a footballer.", 
     "image": "https://cryptosquads.github.io/api/assets/55.png", 
     "attributes": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "trait_type": "Type", 
-        "value": "Country"
+        "value": "International"
       },
       {
         "trait_type": "Role", 
