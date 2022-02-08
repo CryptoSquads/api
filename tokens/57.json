@@ -1,0 +1,65 @@
+{
+  "name": "Partey #57",
+  "description": "**Partey | Club | Home 2021** \n\nHi, my name is Thomas and I love to play football. My nickname is 'The Octopus'.", 
+  "image": "https://cryptosquads.github.io/api/assets/57.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Thomas Partey"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Ghana"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Arsenal"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CDM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X Speedflow.1"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.04"
+    }
+  ],
+  "gameId": "24"
+}
