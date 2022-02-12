@@ -1,20 +1,20 @@
 {
-  "name": "Raphinha  #58",
-  "description": "**Raphinha | Club | Home 2021** \n\nHi, my name name is Raphinhia and I love to play football. I was born in the same city as Ronaldinho.", 
-  "image": "https://cryptosquads.github.io/api/assets/58.png", 
+  "name": "Alli #59",
+  "description": "**Alli | Club | Home 2021** \n\nHi, my name is Dele and I love to play football. My footballing hero is Steven Gerrard.", 
+  "image": "https://cryptosquads.github.io/api/assets/59.png", 
   "attributes": [
     {
       "trait_type": "Rating", 
-      "value": 83,
+      "value": 80,
       "max_value": 100
     },
     {
       "trait_type": "Name", 
-      "value": "Raphinha"
+      "value": "Dele Alli"
     },
     {
       "trait_type": "Nation", 
-      "value": "Brazil"
+      "value": "England"
     },
     {
       "trait_type": "Type", 
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Team", 
-      "value": "Leeds United "
+      "value": "Everton "
     },
     {
       "trait_type": "Competition", 
@@ -42,24 +42,28 @@
     },
     {
       "trait_type": "Preferred Foot", 
-      "value": "Left"
+      "value": "Right"
     }, 
     {
       "trait_type": "Position", 
-      "value": "RM"
+      "value": "CAM"
     }, 
     {
       "trait_type": "Position", 
-      "value": "RW"
+      "value": "CM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "ST"
     },
     {
       "trait_type": "Footwear", 
-      "value": "Adidas X Speedflow.1"
+      "value": "Adidas Predator Freak+"
     },
     {
       "trait_type": "Release", 
       "value": "ENG1 1.04"
     }
   ],
-  "gameId": "36"
+  "gameId": "73"
 }
