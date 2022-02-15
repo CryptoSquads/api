@@ -1,20 +1,20 @@
 {
-  "name": "Mbappé #60",
-  "description": "**Mbappé | Club | Home 2021** \n\nIn 2018 I became the second teenager ever to score in a World Cup final. Pelé was the first.", 
-  "image": "https://cryptosquads.github.io/api/assets/60.png", 
+  "name": "Zaha #66",
+  "description": "**Zaha | Club | Home 2021** \n\nHi, my name is Wilfred and I love to play football. I grew up down the road from Selhurst Park stadium.", 
+  "image": "https://cryptosquads.github.io/api/assets/66.png", 
   "attributes": [
     {
       "trait_type": "Rating", 
-      "value": 91,
+      "value": 82,
       "max_value": 100
     },
     {
       "trait_type": "Name", 
-      "value": "Kylian Mbappé"
+      "value": "Wilfried Zaha"
     },
     {
       "trait_type": "Nation", 
-      "value": "France"
+      "value": "Ivory Coast"
     },
     {
       "trait_type": "Type", 
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Team", 
-      "value": "PSG"
+      "value": "Crystal Palace"
     },
     {
       "trait_type": "Competition", 
-      "value": "Ligue 1"
+      "value": "Premier League"
     },
     {
       "trait_type": "Year", 
@@ -46,20 +46,20 @@
     }, 
     {
       "trait_type": "Position", 
-      "value": "ST"
+      "value": "LW"
     }, 
     {
       "trait_type": "Position", 
-      "value": "LW"
+      "value": "CF"
     },
     {
       "trait_type": "Footwear", 
-      "value": "Nike Mercurial Superfly VIII Elite"
+      "value": "Nike Mercurial Vapor 14"
     },
     {
       "trait_type": "Release", 
-      "value": "FRA1 1.02"
+      "value": "ENG1 1.04"
     }
   ],
-  "gameId": "74"
+  "gameId": "33" 
 }

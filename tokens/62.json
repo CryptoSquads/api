@@ -1,5 +1,61 @@
 {
-  "name": "#62",
-  "description": "Artwork coming soon", 
-  "image": "https://cdn.cryptosquads.art/other/placeholder.png"
+  "name": "Ramos #62",
+  "description": "**Ramos | Club | Home 2021** \n\nHi, my name is Sergio and I love to play football. In my spare time I like to watch my friend, Alejandro Talavante, fighting bulls.", 
+  "image": "https://cryptosquads.github.io/api/assets/62.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Sergio Ramos"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Spain"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "PSG"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Ligue 1"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CB"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Mizuno Rebula Cup Japan"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "FRA1 1.02"
+    }
+  ],
+  "gameId": "76"
 }

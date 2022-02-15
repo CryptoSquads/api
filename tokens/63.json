@@ -1,5 +1,61 @@
 {
-  "name": "#63",
-  "description": "Artwork coming soon", 
-  "image": "https://cdn.cryptosquads.art/other/placeholder.png"
+  "name": "Yedder #63",
+  "description": "**Yedder | Club | Home 2021** \n\nHi, my name is Wissam and I love to play football. I like swimming with dolphins.", 
+  "image": "https://cryptosquads.github.io/api/assets/63.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Wissam Ben Yedder"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "France"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "AS Monaco"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Ligue 1"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Puma Ultra 1.3"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "FRA1 1.02"
+    }
+  ],
+  "gameId": "77"
 }

@@ -1,5 +1,65 @@
 {
-  "name": "#64",
-  "description": "Artwork coming soon", 
-  "image": "https://cdn.cryptosquads.art/other/placeholder.png"
+  "name": "Sanches #64",
+  "description": "**Sanches | Club | Home 2021** \n\nHi, my name is Renato and I love to play football. My grandmother gave me my nickname 'Bulo'.", 
+  "image": "https://cryptosquads.github.io/api/assets/64.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 80,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Renato Sanches"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Portugal"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "LOSC Lille"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Ligue 1"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas Predator Edge.1 Low"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "FRA1 1.02"
+    }
+  ],
+  "gameId": "78"
 }
