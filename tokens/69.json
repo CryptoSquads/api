@@ -1,0 +1,61 @@
+{
+  "name": "Kane #69",
+  "description": "**Kane | Club | Home 2021** \n\nHi, my name is Harry and I love to play football. My entire family are Tottenham fans.", 
+  "image": "https://cryptosquads.github.io/api/assets/69.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Harry Kane"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Tottenham Hotspur"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Phantom GT Elite 2"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.05"
+    }
+  ],
+  "gameId": "82"
+}

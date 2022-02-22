@@ -1,0 +1,65 @@
+{
+  "name": "Ziyech #72",
+  "description": "**Ziyech | Club | Home 2021** \n\nHi, my name is Hakim and I love to play football. I am the youngest of nine children.", 
+  "image": "https://cryptosquads.github.io/api/assets/72.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Hakim Ziyech"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Morocco"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Chelsea"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Left"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CAM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor 14"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.05"
+    }
+  ],
+  "gameId": "85"
+}

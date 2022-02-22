@@ -1,0 +1,65 @@
+{
+  "name": "Smith Rowe #73",
+  "description": "**Smith Rowe | Club | Home 2021** \n\nHi, my name is Emile and I love to play football. I became the first player born after 2000 to score a goal for Arsenal in the Europa League.", 
+  "image": "https://cryptosquads.github.io/api/assets/73.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 76,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Emile Smith Rowe"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Arsenal"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CAM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Phantom VNM"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.05"
+    }
+  ],
+  "gameId": "86"
+}
