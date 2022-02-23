@@ -1,0 +1,61 @@
+{
+  "name": "Fati #74",
+  "description": "**Fati | Club | Home 2021** \n\nHi, my name is Ansu and I love to play football. I became the second youngest player to play for Barcelona.", 
+  "image": "https://cryptosquads.github.io/api/assets/74.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 79,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Ansu Fati"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Spain"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Barcelona"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "La Liga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor 14"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "SPA1 1.02"
+    }
+  ],
+  "gameId": "87"
+}
