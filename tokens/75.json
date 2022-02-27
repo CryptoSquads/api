@@ -1,0 +1,69 @@
+{
+  "name": "Shevchenko #75",
+  "description": "**Shevchenko | International | Home 2006** \n\nHi, my name is Andriy and I love to play football. I am the all-time leading goal scorer for the Ukrainian national team.", 
+  "image": "https://cryptosquads.github.io/api/assets/75.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Andriy Shevchencko"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Ukraine"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "International"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Ukraine"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "World Cup 2006"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2005-2006"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CF"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial III"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "WORLD 1.00"
+    }
+  ],
+  "gameId": "88"
+}
