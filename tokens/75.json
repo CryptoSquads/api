@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Rating", 
-      "value": 92,
+      "value": 93,
       "max_value": 100
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Competition", 
-      "value": "World Cup 2006"
+      "value": "World Cup"
     },
     {
       "trait_type": "Year", 
