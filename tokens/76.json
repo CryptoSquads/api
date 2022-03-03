@@ -1,20 +1,20 @@
 {
-  "name": "Pope #10",
-  "description": "**Pope | Club | Home 2021** \n\n Hi, my name is Nick and I love to play football. I once worked part-time as a milkman.", 
-  "image": "https://cryptosquads.github.io/api/assets/10.png?v=1.0", 
+  "name": "Donnarumma #76",
+  "description": "**Donnarumma | Club | Home 2006** \n\nHi, my name is Gianluigi and I love to play football. On my senior international debut, I became the youngest goalkeeper ever to play for Italy.", 
+  "image": "https://cryptosquads.github.io/api/assets/76.png", 
   "attributes": [
     {
       "trait_type": "Rating", 
-      "value": 83,
+      "value": 89,
       "max_value": 100
     },
     {
       "trait_type": "Name", 
-      "value": "Nick Pope"
+      "value": "Gianluigi Donnarumma"
     },
     {
       "trait_type": "Nation", 
-      "value": "England"
+      "value": "Italy"
     },
     {
       "trait_type": "Type", 
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Team", 
-      "value": "Burnley"
+      "value": "PSG"
     },
     {
       "trait_type": "Competition", 
-      "value": "Premier League"
+      "value": "Ligue 1"
     },
     {
       "trait_type": "Year", 
@@ -47,19 +47,19 @@
     {
       "trait_type": "Position", 
       "value": "GK"
-    }, 
+    },
     {
       "trait_type": "Footwear", 
-      "value": "Nike Phantom Venom Elite - Yellow"
+      "value": "Adidas Predator Freak 1"
     },
     {
       "trait_type": "Gloves", 
-      "value": "SELLS Wrap Aqua Ultima"
+      "value": "Predator 20 Pro Superspectral"
     },
     {
       "trait_type": "Release", 
-      "value": "ENG1 1.00"
+      "value": "FRA1 1.03"
     }
   ],
-  "gameId": "10" 
+  "gameId": "90"
 }

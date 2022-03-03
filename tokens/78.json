@@ -1,20 +1,20 @@
 {
-  "name": "Pope #10",
-  "description": "**Pope | Club | Home 2021** \n\n Hi, my name is Nick and I love to play football. I once worked part-time as a milkman.", 
-  "image": "https://cryptosquads.github.io/api/assets/10.png?v=1.0", 
+  "name": "Mendy #78",
+  "description": "**Mendy | Club | Home 2006** \n\nHi, my name is Edouard and I love to play football. I'm one of a few players who have represented more than one national team.", 
+  "image": "https://cryptosquads.github.io/api/assets/78.png", 
   "attributes": [
     {
       "trait_type": "Rating", 
-      "value": 83,
+      "value": 86,
       "max_value": 100
     },
     {
       "trait_type": "Name", 
-      "value": "Nick Pope"
+      "value": "Édouard Mendy"
     },
     {
       "trait_type": "Nation", 
-      "value": "England"
+      "value": "Senegal"
     },
     {
       "trait_type": "Type", 
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Team", 
-      "value": "Burnley"
+      "value": "Chelsea"
     },
     {
       "trait_type": "Competition", 
@@ -47,19 +47,19 @@
     {
       "trait_type": "Position", 
       "value": "GK"
-    }, 
+    },
     {
       "trait_type": "Footwear", 
-      "value": "Nike Phantom Venom Elite - Yellow"
+      "value": "Adidas Predator Freak 'Meteorite'"
     },
     {
       "trait_type": "Gloves", 
-      "value": "SELLS Wrap Aqua Ultima"
+      "value": "Uhlsport Hyperact Supergrip+ HN"
     },
     {
       "trait_type": "Release", 
-      "value": "ENG1 1.00"
+      "value": "ENG1 1.06"
     }
   ],
-  "gameId": "10" 
+  "gameId": "92"
 }
