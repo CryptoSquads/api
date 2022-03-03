@@ -1,0 +1,65 @@
+{
+  "name": "Cuadrado #79",
+  "description": "**Cuadrado | Club | Home 2021** \n\n_____", 
+  "image": "https://cryptosquads.github.io/api/assets/79.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Juan Cuadrado"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Colombia"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Juventus"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Serie A"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RB"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas Copa Sense.1"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ITA1 1.02"
+    }
+  ],
+  "gameId": "89"
+}
