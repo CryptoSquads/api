@@ -1,0 +1,65 @@
+{
+  "name": "Lacazette #80",
+  "description": "**Lacazette | Club | Home 2021** \n\nHi, my name is Alexandre and I love to play football. My teammates call me 'Laca'.", 
+  "image": "https://cryptosquads.github.io/api/assets/80.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Alexandre Lacazette"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "France"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Arsenal"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CF"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor 14"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.07"
+    }
+  ],
+  "gameId": "89"
+}
