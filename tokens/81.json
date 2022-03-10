@@ -1,7 +1,7 @@
 {
   "name": "James #81",
   "description": "**James | Club | Home 2021** \n\nHi, my name is Reece and I love to play football. My sister also plays for Chelsea.", 
-  "image": "https://cryptosquads.github.io/api/assets/81.png", 
+  "image": "https://cryptosquads.github.io/api/assets/81.png?v=1.0", 
   "attributes": [
     {
       "trait_type": "Rating", 
