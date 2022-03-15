@@ -1,0 +1,61 @@
+{
+  "name": "Ronaldo #84",
+  "description": "**Ronaldo | Club | Home 2002** \n\nHi, my name is Cristiano and I love playing football for Sporting Lisbon. One day I hope to become the World's greatest goal scorer.", 
+  "image": "https://cryptosquads.github.io/api/assets/84.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 78,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Cristiano Ronaldo"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Portugal"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Sporting Lisbon"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Primeira Liga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2002-2003"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "POR 1.00"
+    }
+  ],
+  "gameId": "97"
+}
