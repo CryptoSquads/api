@@ -1,0 +1,61 @@
+{
+  "name": "Modrić #85",
+  "description": "**Modrić | Club | Home 2002** \n\nHi, my name is Luka and I love to play football. I used to be a shepherd and was inspired by Francesco Totti.", 
+  "image": "https://cryptosquads.github.io/api/assets/85.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Luka Modrić"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Croatia"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Real Madrid"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "La Liga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor 14"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "_______"
+    }
+  ],
+  "gameId": "98"
+}
