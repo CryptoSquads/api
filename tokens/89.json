@@ -1,6 +1,6 @@
 {
   "name": "Aubameyang #89",
-  "description": "**Aubameyang | Club | Fourth Kit 2002** \n\nHi, my name is Pierre and I love to play football. I'm only player in the squad to have played for clubs in Europe's top five leagues.", 
+  "description": "**Aubameyang | Club | Fourth kit 2002** \n\nHi, my name is Pierre and I love to play football. I'm only player in the squad to have played for clubs in Europe's top five leagues.", 
   "image": "https://cryptosquads.github.io/api/assets/89.png", 
   "attributes": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Kit", 
-      "value": "Home"
+      "value": "Fourth"
     },
     {
       "trait_type": "Preferred Foot", 
