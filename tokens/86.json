@@ -1,0 +1,65 @@
+{
+  "name": "Ødegaard #86",
+  "description": "**Ødegaard | Club | Home 2002** \n\nHi, my name is Martin and I love to play football. In 2015, my Real Madrid shirt out-sold Ronaldo's.", 
+  "image": "https://cryptosquads.github.io/api/assets/86.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Martin Ødegaard"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Norway"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Arsenal"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Left"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CAM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor 14"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.08"
+    }
+  ],
+  "gameId": "99"
+}

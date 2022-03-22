@@ -1,0 +1,65 @@
+{
+  "name": "Aubameyang #89",
+  "description": "**Aubameyang | Club | Fourth Kit 2002** \n\nHi, my name is Pierre and I love to play football. I'm only player in the squad to have played for clubs in Europe's top five leagues.", 
+  "image": "https://cryptosquads.github.io/api/assets/89.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Pierre-Emerick Aubameyang"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Gabon"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Barcelona"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "La Liga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "ST"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor XIII "
+    },
+    {
+      "trait_type": "Release", 
+      "value": "SPA1 1.04"
+    }
+  ],
+  "gameId": "102"
+}

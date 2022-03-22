@@ -1,0 +1,65 @@
+{
+  "name": "Bellingham #87",
+  "description": "**Bellingham | Club | Home 2002** \n\nHi, my name is Jude and I love to play football. My first club, Birmingham, retired my shirt number to 'remember one of our own and to inspire others'.", 
+  "image": "https://cryptosquads.github.io/api/assets/87.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 81,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Jude Bellingham"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "England"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Borussia Dortmund"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Bundesliga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas Predator Edge.1 Low Geometric"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "GER1 1.02"
+    }
+  ],
+  "gameId": "100"
+}
