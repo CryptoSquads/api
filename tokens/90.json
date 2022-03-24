@@ -1,7 +1,7 @@
 {
-  "name": "Aubameyang #89",
-  "description": "**Aubameyang | Club | Fourth kit 2021** \n\nHi, my name is Pierre and I love to play football. I'm only player in the squad to have played for clubs in Europe's top five leagues.", 
-  "image": "https://cryptosquads.github.io/api/assets/89.png", 
+  "name": "Dembélé #90",
+  "description": "**Dembélé | Club | Home 2021** \n\n", 
+  "image": "https://cryptosquads.github.io/api/assets/90.png", 
   "attributes": [
     {
       "trait_type": "Rating", 
@@ -10,11 +10,11 @@
     },
     {
       "trait_type": "Name", 
-      "value": "Pierre-Emerick Aubameyang"
+      "value": "Ousmane Dembélé"
     },
     {
       "trait_type": "Nation", 
-      "value": "Gabon"
+      "value": "France"
     },
     {
       "trait_type": "Type", 
@@ -38,28 +38,24 @@
     },
     {
       "trait_type": "Kit", 
-      "value": "Fourth"
+      "value": "Home"
     },
     {
       "trait_type": "Preferred Foot", 
-      "value": "Right"
+      "value": "Left"
     }, 
     {
       "trait_type": "Position", 
-      "value": "ST"
-    },
-    {
-      "trait_type": "Position", 
-      "value": "LW"
+      "value": "RW"
     },
     {
       "trait_type": "Footwear", 
-      "value": "Nike Mercurial Vapor XIII "
+      "value": "Nike Mercurial Vapor 14"
     },
     {
       "trait_type": "Release", 
       "value": "SPA1 1.04"
     }
   ],
-  "gameId": "102"
+  "gameId": "103"
 }
