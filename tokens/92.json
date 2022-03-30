@@ -1,20 +1,20 @@
 {
-  "name": "James #81",
-  "description": "**James | Club | Home 2021** \n\nHi, my name is Reece and I love to play football. My sister also plays for Chelsea.", 
-  "image": "https://cryptosquads.github.io/api/assets/81.png?v=1.0", 
+  "name": "Vinícius Jr #92",
+  "description": "**Vinícius Jr | Club | Home 2021** \n\nHi, my name is Vinicius and I love to play football. I became the youngest foreign player to score in the history of El Clásico.", 
+  "image": "https://cryptosquads.github.io/api/assets/92.png", 
   "attributes": [
     {
       "trait_type": "Rating", 
-      "value": 82,
+      "value": 84,
       "max_value": 100
     },
     {
       "trait_type": "Name", 
-      "value": "Reece James"
+      "value": "Vinícius Júnior"
     },
     {
       "trait_type": "Nation", 
-      "value": "England"
+      "value": "Brazil"
     },
     {
       "trait_type": "Type", 
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Team", 
-      "value": "Chelsea"
+      "value": "Real Madrid"
     },
     {
       "trait_type": "Competition", 
-      "value": "Premier League"
+      "value": "La Liga"
     },
     {
       "trait_type": "Year", 
@@ -46,20 +46,16 @@
     }, 
     {
       "trait_type": "Position", 
-      "value": "RWB"
-    },
-    {
-      "trait_type": "Position", 
-      "value": "RB"
+      "value": "LW"
     },
     {
       "trait_type": "Footwear", 
-      "value": "Nike Mercurial Vapor 14"
+      "value": "Nike Mercurial Vapor 14 Dream Speed 5"
     },
     {
       "trait_type": "Release", 
-      "value": "ENG1 1.07"
+      "value": "SPA1 1.05"
     }
   ],
-  "gameId": "94"
+  "gameId": "105"
 }
