@@ -1,0 +1,65 @@
+{
+  "name": "Bale #94",
+  "description": "**Bale | Club | Home 2021** \n\nHi, my name is Gareth and I love to play football. I became the first Welsh footballer to score in a Champions League final.", 
+  "image": "https://cryptosquads.github.io/api/assets/94.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 81,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Gareth Bale"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Wales"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Real Madrid"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "La Liga"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Left"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "RM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X 19.1"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "SPA1 1.06"
+    }
+  ],
+  "gameId": "107"
+}
