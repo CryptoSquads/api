@@ -1,0 +1,36 @@
+{
+  "name": "Klopp #97",
+  "description": "**Klopp | Club | 2021** \n\nHi, my name is Jürgen and I love football. I wanted to study medicine as a child. My middle name is Norbet.", 
+  "image": "https://cryptosquads.github.io/api/assets/97.png", 
+  "attributes": [
+    {
+      "trait_type": "Name", 
+      "value": "Jürgen Klopp"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Manager"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Liverpool"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.11"
+    }
+  ],
+  "gameId": "110"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Mourinho #98",
+  "description": "**Mourinho | Club | 2021** \n\nHi, my name is José and I love football. In 2011 I was named 'Rockstar of the Year' in the Spanish edition of Rolling Stone magazine.", 
+  "image": "https://cryptosquads.github.io/api/assets/98.png", 
+  "attributes": [
+    {
+      "trait_type": "Name", 
+      "value": "José Mourinho"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Manager"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Roma"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Serie A"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ITA1 1.03"
+    }
+  ],
+  "gameId": "111"
+}
