@@ -1,5 +1,65 @@
 {
   "name": "Kulusevski #102",
-  "description": "Vault item in creation", 
-  "image": "https://cdn.cryptosquads.art/placeholder.png"
+  "description": "**Kulusevski | Club | Home 2021** \n\nHi, my name is Dejan and I love to play football. My friends call my 'Shady'.", 
+  "image": "https://cryptosquads.github.io/api/assets/102.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 80,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Dejan Kulusevski"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Sweden"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Tottenham Hotspur"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "CF"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Vapor 14"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.13"
+    }
+  ],
+  "gameId": "115"
 }
