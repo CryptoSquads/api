@@ -1,5 +1,69 @@
 {
   "name": "Pulisic #108",
-  "description": "Vault item in creation",
-  "image": "https://cdn.cryptosquads.art/placeholder.png"
+  "description": "**Pulisic | Club | Home 2021** \n\nHi, my name is Christian and I love to play football. Eden Hazard is my soccer idol.", 
+  "image": "https://cryptosquads.github.io/api/assets/108.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Christian Pulisic"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "USA"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Chelsea"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "RW"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Phantom GT 2 Elite DF"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.13"
+    }
+  ],
+  "gameId": "121"
 }
