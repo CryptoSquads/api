@@ -1,5 +1,61 @@
 {
   "name": "Martinelli #107",
-  "description": "Vault item in creation", 
-  "image": "https://cdn.cryptosquads.art/placeholder.png"
+  "description": "**Martinelli | Club | Home 2021** \n\n", 
+  "image": "https://cryptosquads.github.io/api/assets/107.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 78,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Gabriel Martinelli"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Brazil"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Arsenal"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LW"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X Speedflow+"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.13"
+    }
+  ],
+  "gameId": "120"
 }
