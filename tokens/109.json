@@ -1,0 +1,36 @@
+{
+  "name": "Ancelotti #109",
+  "description": "**Ancelotti | Club | 2021** \n\nHi, my name is Carlo and I love football. My raised eyebrow is the result of a Vespa crash as a teenager.",
+  "image": "https://cryptosquads.github.io/api/assets/109.png",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Carlo Ancelotti"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Manager"
+    },
+    {
+      "trait_type": "Team",
+      "value": "Real Madrid"
+    },
+    {
+      "trait_type": "Competition",
+      "value": "La Liga"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Release",
+      "value": "SPA1 1.07"
+    }
+  ],
+  "gameId": "122"
+}
