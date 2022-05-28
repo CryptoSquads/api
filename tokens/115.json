@@ -1,5 +1,69 @@
 {
   "name": "Azpilicueta #115",
-  "description": "Vault item in creation", 
-  "image": "https://cdn.cryptosquads.art/placeholder.png"
+  "description": "**Azpilicueta | Club | Home 2021** \n\nHi, my name is César and I love to play football. When I joined Chelsea, I was known as 'Dave' because my name was too hard to pronounce. ", 
+  "image": "https://cryptosquads.github.io/api/assets/115.png?v=1", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "César Azpilicueta"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Spain"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Chelsea"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CB"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "RWB"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "RB"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X Speedflow.1"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.14"
+    }
+  ],
+  "gameId": "128"
 }

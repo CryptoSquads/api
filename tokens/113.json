@@ -1,5 +1,61 @@
 {
   "name": "Romero #113",
-  "description": "Vault item in creation", 
-  "image": "https://cdn.cryptosquads.art/placeholder.png"
+  "description": "**Romero | Club | Home 2021** \n\nHi, my name is Cristian and I love to play football. I broke Maradona's record for the fastest goal scored for Argentina. ", 
+  "image": "https://cryptosquads.github.io/api/assets/113.png?v=1", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Cristian Romero"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Argentina"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Tottenham Hotspur"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CB"
+    }, 
+    {
+      "trait_type": "Footwear", 
+      "value": "Nike Mercurial Superfly VIII Elite"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.14"
+    }
+  ],
+  "gameId": "126"
 }

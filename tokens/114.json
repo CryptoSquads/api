@@ -1,5 +1,65 @@
 {
   "name": "Guimarães #114",
-  "description": "Vault item in creation", 
-  "image": "https://cdn.cryptosquads.art/placeholder.png"
+  "description": "**Guimarães | Club | Home 2021** \n\nHi, my name is Bruno I love to play football. I am always number 39, it was the number of my father's taxi in Rio de Janeiro.", 
+  "image": "https://cryptosquads.github.io/api/assets/114.png?v=1", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 80,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Bruno Guimarães"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "Brazil"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Newcastle United"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "2021-2022"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CDM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas X Speedflow.1"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "ENG1 1.14"
+    }
+  ],
+  "gameId": "127"
 }
