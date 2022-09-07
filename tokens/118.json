@@ -1,5 +1,61 @@
 {
   "name": "Haaland #118",
-  "description": "Vault item in creation", 
-  "image": "https://cdn.cryptosquads.art/placeholder.png"
-}
+  "description": "**Haaland | Club | Home 2022** \n\nHi, my name is Erling and I love to play football. I could have played for England, becasue I was born in Leeds, but chose Norway.", 
+  "image": "https://cryptosquads.github.io/api/assets/118.png", 
+  "attributes": [
+      {
+        "trait_type": "Rating", 
+        "value": 88,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Name", 
+        "value": "Erling Haaland"
+      },
+      {
+        "trait_type": "Nation", 
+        "value": "Norway"
+      },
+      {
+        "trait_type": "Type", 
+        "value": "Club"
+      },
+      {
+        "trait_type": "Role", 
+        "value": "Player"
+      },
+      {
+        "trait_type": "Team", 
+        "value": "Manchester United"
+      },
+      {
+        "trait_type": "Competition", 
+        "value": "Premier League"
+      },
+      {
+        "trait_type": "Year", 
+        "value": "2022-2023"
+      },
+      {
+        "trait_type": "Kit", 
+        "value": "Home"
+      },
+      {
+        "trait_type": "Preferred Foot", 
+        "value": "Left"
+      }, 
+      {
+        "trait_type": "Position", 
+        "value": "ST"
+      }, 
+      {
+        "trait_type": "Footwear", 
+        "value": "Nike Mercurial Vapor 14"
+      },
+      {
+        "trait_type": "Release", 
+        "value": "GER1 1.16"
+      }
+    ],
+    "gameId": "131"
+  }
