@@ -1,5 +1,65 @@
 {
   "name": "Zidane #121",
-  "description": "Vault item in creation", 
-  "image": "https://cdn.cryptosquads.art/placeholder.png"
+  "description": "**Zidane | International | Home 1998** \n\nHi, my name is Zizou and I love to play football. I've had more World Cup red cards than any other player.", 
+  "image": "https://cryptosquads.github.io/api/assets/121.png", 
+  "attributes": [
+    {
+      "trait_type": "Rating", 
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Name", 
+      "value": "Zinedine Zidane"
+    },
+    {
+      "trait_type": "Nation", 
+      "value": "France"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "International"
+    },
+    {
+      "trait_type": "Role", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "France"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "World Cup"
+    },
+    {
+      "trait_type": "Year", 
+      "value": "1997-1998"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CAM"
+    },
+    {
+      "trait_type": "Position", 
+      "value": "LM"
+    },
+    {
+      "trait_type": "Footwear", 
+      "value": "Adidas Predator Accelerator"
+    },
+    {
+      "trait_type": "Release", 
+      "value": "WORLD 1.01"
+    }
+  ],
+  "gameId": "134"
 }
